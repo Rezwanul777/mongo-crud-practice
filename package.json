@@ -1,0 +1,17 @@
+{
+  "name": "mongo.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongodb": "^4.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+   "start":"node mongo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
